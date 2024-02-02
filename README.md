@@ -1,5 +1,5 @@
 # 3D-Maze-Navigation
-A project led by the instructional team of CS 251 at Purdue University. Implemented a cyclic double-ended queue to map and solve a three-dimensional maze.
+A project led by the instructional team of CS 251 at Purdue University. Implemented a cyclic double-ended queue to map and solve a three-dimensional maze.\n
 I worked on the implmentation in three files: cylic_double_queue.hpp, maze.hpp, and maze.cpp. The skeleton code was created by the CS251 instructional team.
 
 Part 1: Double Ended Cyclic Queue:
