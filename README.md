@@ -15,5 +15,3 @@ Part 2a: Creating the Maze:
 Part 3a: Solving the Maze:
 
   In maze.cpp, uses the generated maze to mark a path between the given start point and end point.
-
-More information about the process located in the pdf.
